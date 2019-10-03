@@ -1,6 +1,6 @@
 Cadastro de venda de Pizzas
 Pizzaria: Pizzaria Alegre
-VErsão:001
+VErsão:003
 Operador:
 
 Telefone:
